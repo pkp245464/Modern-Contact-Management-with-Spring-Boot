@@ -102,8 +102,11 @@ Before you begin, ensure you have the following installed:
    ```
    npx tailwindcss -i ./src/main/resources/static/css/input.css -o ./src/main/resources/static/css/output.css --watch
    ```
+6. Access the application:
 
-6. Access the application at `http://localhost:8080`
+The application will be accessible at the URL and port specified in your application.properties file.
+If you haven't specified a port, Spring Boot typically defaults to http://localhost:8080
+Check your console output when starting the application for the exact URL.
 
 ## Contributing
 
