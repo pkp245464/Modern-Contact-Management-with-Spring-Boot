@@ -4,7 +4,7 @@
 
 Modern Contact Management is a robust Spring Boot application designed to streamline contact management for users. This full-stack solution offers a range of features including manual account creation, Cloudinary image storage, comprehensive contact management, and secure OAuth2 authentication via GitHub and Google.
 
-![Project Banner](https://via.placeholder.com/800x400.png?text=Modern+Contact+Management)
+![Modern Contact Management](https://github.com/pkp245464/Modern-Contact-Management-with-Spring-Boot/raw/main/Project%20Screenshots/MainHomePage.jpg)
 
 ## Features
 
